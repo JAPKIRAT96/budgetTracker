@@ -16,7 +16,8 @@ When brought back online:
 
 - Offline entries should be added to tracker.
 
-Data can be visualized using chart in the front end.
+- Data can be visualized using chart in the front end.
+
 <img src="public/assets/images/budget.png">
 
 ## Business Context
