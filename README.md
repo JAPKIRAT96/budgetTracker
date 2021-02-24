@@ -4,7 +4,7 @@
 
 A Full Stack web application built with express, node and indexDB With which you can keep track of your finances by adding expenses and income.
 
-Deployed on Heroku -
+Deployed on Heroku - https://budgettracker96.herokuapp.com
 
 ## Features
 
