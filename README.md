@@ -1,12 +1,12 @@
 # Budget-Tracker
 
-# Introduction
+## Introduction
 
-A Full Stack web application built with express, node and indexDB. With this application you can keep track of your finances by adding expenses and income.
+A Full Stack web application built with express, node and indexDB With which you can keep track of your finances by adding expenses and income.
 
 Deployed on Heroku -
 
-# Features
+## Features
 
 - Enter deposits offline
 
@@ -19,14 +19,14 @@ When brought back online:
 Data can be visualized using chart in the front end.
 <img src="public/assets/images/budget.png">
 
-# Business Context
+## Business Context
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
-# Technologies
+## Technologies
 
-Javascript
-Express
-Node
-IndexDB
-Heroku
+- Javascript
+- Express
+- Node
+- IndexDB
+- Heroku
